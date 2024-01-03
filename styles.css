@@ -5,6 +5,16 @@
 	height:100px;
 	background-color:green;
 }
+.main{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.green{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
 .red{
 	width:100px;
 	height:100px;
