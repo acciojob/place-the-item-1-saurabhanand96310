@@ -1,2 +1,17 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */\
+.green{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.red{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.blue{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
